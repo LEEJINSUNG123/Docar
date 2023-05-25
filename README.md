@@ -138,6 +138,10 @@ IDE
 
 <br>
 
+### DB_ERD
+<div> 
+    <img src = "./docs/imgs/DB_ERD.png">
+<div>
 -----
 
 <br>
