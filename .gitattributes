@@ -1,5 +1,5 @@
-*.java linguist-detectable=false
-*.makefile linguist-detectable=false
-*.cmake linguist-detectable=false
-*.shell linguist-detectable=false
-*.other linguist-detectable=false
+# *.java linguist-detectable=false
+# *.makefile linguist-detectable=false
+# *.cmake linguist-detectable=false
+# *.shell linguist-detectable=false
+# *.other linguist-detectable=false
